@@ -1,2 +1,2 @@
-# aluraPlus
-Plataforma de cursos de tecnologia e idiomas
+# Alura Plus
+Plataforma de cursos de tecnologia e idiomas.
