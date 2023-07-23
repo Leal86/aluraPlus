@@ -29,3 +29,15 @@ A diferença entre ``` <button>``` e ```<a> ```;
 * Aplicar a fonte importada nos elementos através do CSS e outros atributos relacionados: font-family, font-size, font-weight;
 
 * Remover a decoração do texto de links através do text-decoration.
+
+* Afastar elementos dos cantos da tela e de outros elementos;
+
+* A diferença entre margin e padding;
+
+* Diversas maneiras de determinar os valores e as direções das margens dentro da propriedade margin;
+
+* Construir uma nova section;
+
+* Reutilizar estilos através das classes dentro da nova section;
+
+* Atribuir mais de uma classe nos elementos para incluir novas estilizações além das existentes.

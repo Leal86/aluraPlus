@@ -47,6 +47,7 @@ body {
 
 .container__titulo {
     font-size: 28px;
+    padding: 0 2em;
     font-weight: 700;
 }
 
@@ -96,5 +97,41 @@ body {
 
 .descricao__texto {
     color: var(--cinza-secundario);
+    padding-right: 2em;
+    margin-bottom: 1em;
 }
 
+.secundario__botao {
+    display: inline-block;
+    
+}
+
+.container__descricao {
+    padding: 2em;
+}
+
+/** SECTION DISPOSITIVOS **************************************************************************************************************************************/
+
+.dispositivos {
+    text-align: center;
+}
+
+.dispositivos__titulo {
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--branco-principal);
+}
+
+.dispositivos__lista {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 5em 0;
+}
+
+.lista__item {
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0 2em;
+    color: var(--branco-principal);
+}
