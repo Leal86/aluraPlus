@@ -5,22 +5,16 @@ Plataforma de cursos de tecnologia e idiomas.
 
 * Estabelecer variáveis CSS e usar as mesmas, que ajudam a compreender melhor as cores por possuírem agora um nome ao invés do código hexadecimal;
 
-* Criar botões na página e como escolher qual elemento para isso;
 
 * Como nomear classes com o padrão BEM (block element modifier);
-A diferença entre ``` <button>``` e ```<a> ```;
 
-* Unidade de medida responsiva em;
+* Utilizar unidade de medida responsiva em;
 
-* Display inline e block;
+* Conceitos de display inline e block;
 
 * Usar as propriedades CSS grid e grid-template-columns para dividir a tela;
 
-* Conferir através da ferramenta do desenvolvedor no navegador (F12) os grids na tela;
-
-* Detectar diferentes tipos de fontes e tamanhos de letras no Figma;
-
-* Escolher fontes no fonts.google.com;
+* Utilizar o Goolge Fonts;
 
 * Importar fontes externas no arquivo HTML;
 
@@ -36,8 +30,12 @@ A diferença entre ``` <button>``` e ```<a> ```;
 
 * Diversas maneiras de determinar os valores e as direções das margens dentro da propriedade margin;
 
-* Construir uma nova section;
-
 * Reutilizar estilos através das classes dentro da nova section;
 
 * Atribuir mais de uma classe nos elementos para incluir novas estilizações além das existentes.
+
+* Usar flexbox e seu significado;
+
+* Flex-containers, flex-itens, flex-direction;
+
+* Pseudo-classes no CSS: hover e active.
